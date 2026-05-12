@@ -1,0 +1,2 @@
+# mgs-privacy
+Privacy file
